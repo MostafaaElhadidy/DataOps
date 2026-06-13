@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Agentic%20AIOps%20Platform&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Autonomous%20Data%20Pipeline%20Monitoring%20%26%20Recovery&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Agentic%20AIOps%20Platform&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Autonomous%20Data%20Pipeline%20Monitoring%20%26%20Recovery&descAlignY=55&descAlign=50" alt="" />
 </div>
 
 <div align="center">
@@ -92,35 +92,6 @@ This platform leverages **LangGraph** to orchestrate a team of specialized AI ag
 ### Installation
 
 1. **Clone the repository:**
-   ```bash
+```bash
    git clone <repo-url>
    cd project
-   ```
-
-2. **Set up the virtual environment:**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   pip install -r requirements.txt
-   ```
-
-3. **Configure Environment:**
-   Copy `.env.example` to `.env` and fill in your LLM and service endpoints.
-
-4. **Spin up the Infrastructure:**
-   ```bash
-   cd docker
-   docker-compose up -d
-   ```
-
----
-
-## 🛡️ Safety Model (Human-In-The-Loop)
-
-The Remediation Agent operates with strict boundaries. It can only propose actions from a predefined allowlist (e.g., `restart`, `start`, `stop`). Destructive commands (`rm`, `drop`, `delete`) are hard-blocked. Before any command is executed, LangGraph pauses execution, requiring a human operator to approve the action via the UI or API.
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</div>
