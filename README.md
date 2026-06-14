@@ -10,7 +10,7 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
-An end-to-end, multi-agent artificial intelligence operations (AIOps) platform designed to autonomously monitor, diagnose, and remediate failures in complex data pipelines.
+## An end-to-end, multi-agent artificial intelligence operations (AIOps) platform designed to autonomously monitor, diagnose, and remediate failures in complex data pipelines.
 
 </div>
 
