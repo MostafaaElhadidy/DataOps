@@ -10,7 +10,7 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
-## An end-to-end, multi-agent artificial intelligence operations (AIOps) platform designed to autonomously monitor, diagnose, and remediate failures in complex data pipelines.
+## An end-to-end, multi-agent artificial intelligence operations (DataOps) platform designed to autonomously monitor, diagnose, and remediate failures in complex data pipelines.
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## 🌟 Overview
 
-The **Agentic AIOps Platform** is a production-grade system that brings autonomous AI agents to your data engineering infrastructure. It monitors data pipelines in real-time, detects anomalies, performs root cause analysis, and executes safe, human-in-the-loop remediations. 
+The **Agentic DataOps Platform** is a production-grade system that brings autonomous AI agents to your data engineering infrastructure. It monitors data pipelines in real-time, detects anomalies, performs root cause analysis, and executes safe, human-in-the-loop remediations. 
 
 Imagine having an entire site reliability engineering (SRE) team working 24/7 on your data pipelines—that's what this platform provides.
 
