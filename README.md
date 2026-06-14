@@ -93,5 +93,5 @@ This platform leverages **LangGraph** to orchestrate a team of specialized AI ag
 
 1. **Clone the repository:**
 ```bash
-   git clone <repo-url>
+   git clone [<repo-url>](https://github.com/MostafaaElhadidy/DataOps.git)
    cd project
